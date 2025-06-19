@@ -12,7 +12,7 @@ Motivated and adaptable Full Stack Developer with a strong foundation in both fr
 
 ### 🚀 Top Skills
 
-- **Languages:** PHP, Go, JavaScript, HTML, CSS, SQL, Dart, Python
+- **Languages:** PHP, Go, JavaScript, HTML, CSS, SQL, Dart, Flutter, Python
 - **Frameworks/Tools:** Flutter, Firebase, Blender, Pandas, Matplotlib, OpenMP, MPI, Regex
 
 ---
